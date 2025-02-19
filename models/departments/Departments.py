@@ -4,6 +4,7 @@ from typing import List
 
 from .DepartmentRow import DepartmentRow
 
+
 class Departments(BaseModel):
     """Модель для получения списка Department"""
     

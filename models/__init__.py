@@ -1,3 +1,4 @@
-from .Departments import Departments
-from .DepartmentRow import DepartmentRow
-from .Objects import Objects
+from .departments import *
+from .object_model import *
+from .objects import *
+from .search import *
